@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSoftStone.HoustonMapProject", "iSoftStone.HoustonMapProject\iSoftStone.HoustonMapProject.csproj", "{DA2FAB9F-417A-475E-9511-9AEE6AB67C4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isoftstone.HoustonMapProject", "iSoftStone.HoustonMapProject\Isoftstone.HoustonMapProject.csproj", "{DA2FAB9F-417A-475E-9511-9AEE6AB67C4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
